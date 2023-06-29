@@ -10,6 +10,7 @@ const Database = () => {
   return (
     <div>
       <h2>Gunpla Database</h2>
+      <p>Whether you're a seasoned Gundam model kit enthusiast or just starting your Gunpla journey, this curated selection of Gunpla kits categorized by grade will ignite your passion for mecha building. From High Grade (HG) to Master Grade (MG), Perfect Grade (PG), and beyond, each grade offers its own unique level of detail, complexity, and realism. Discover the perfect Gunpla kit that suits your skill level, desired challenge, and aesthetic preferences.</p>
       <div className='row'>
       <Link to='/database/HG'>
           <Card className="col-sm-2">
